@@ -8,3 +8,70 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  background-color: white;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.legendbox1 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: green;
+}
+
+.legendbox2 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: yellowgreen;
+}
+
+.legendbox3 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: yellow;
+}
+
+.legendbox4 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: orange;
+}
+
+.legendbox5 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: red;
+}
+
+.legendbox6 {
+  padding: 13px;
+  margin-right: 12px;
+  background-color: purple;
+}
+
+#legendLabel1 {
+  color: green;
+}
+
+#legendLabel2 {
+  color: rgb(116, 155, 39);
+}
+
+#legendLabel3 {
+  color: rgb(172, 172, 0);
+}
+
+#legendLabel4 {
+  color: orange;
+}
+
+#legendLabel5 {
+  color: red;
+}
+
+#legendLabel6 {
+  color: purple;
+}
