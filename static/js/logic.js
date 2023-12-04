@@ -66,7 +66,7 @@ d3.json(queryUrl).then(function (data) {
         position: "bottomright"
     });
     
-    // Add div class for legend.
+    // Add div class for legend
     info.onAdd = function() {
         let div = L.DomUtil.create("div", "legend");
         return div;
