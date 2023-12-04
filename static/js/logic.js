@@ -9,7 +9,7 @@ let myMap = L.map("map", {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-// Store our API endpoint as queryUrl.
+// Store our API endpoint as queryUrl
 let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 // Perform GET request to queryUrl
